@@ -2,7 +2,7 @@
 
 ## This Repository
 
-This repository stores third party conponents used by the developer community.
+This repository stores third party components used by the developer community.
 
 * third_party_extractor.py - third party http conponent for extractor.
 * third_party_tokenizer.py - third party http conponent for tokenizer.
